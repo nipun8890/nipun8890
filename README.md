@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nipun Agrawal  e</h1>
+<h1 align="center">Hi 👋, I'm Nipun Agrawal</h1>
 <h3 align="center">I am currently pursuing engineering </h3>
 
 - 🔭 I’m in my first  year in Btech (CSE) course in UPES, Dehradun.
